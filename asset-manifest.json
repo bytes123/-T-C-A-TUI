@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/bytes123/-T-C-A-TUI.git/static/css/main.171fe319.css",
+    "main.js": "/bytes123/-T-C-A-TUI.git/static/js/main.6cc0b031.js",
+    "static/media/banner-lap-1.png": "/bytes123/-T-C-A-TUI.git/static/media/banner-lap-1.fe9c88bd1008450098f1.png",
+    "index.html": "/bytes123/-T-C-A-TUI.git/index.html",
+    "main.171fe319.css.map": "/bytes123/-T-C-A-TUI.git/static/css/main.171fe319.css.map",
+    "main.6cc0b031.js.map": "/bytes123/-T-C-A-TUI.git/static/js/main.6cc0b031.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.171fe319.css",
+    "static/js/main.6cc0b031.js"
+  ]
+}
